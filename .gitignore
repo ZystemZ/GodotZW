@@ -1,0 +1,15 @@
+# Local provider configuration may contain API keys or project-specific history.
+.zystem/
+/ZystemWorkSpace/config/secrets.php
+/ZystemWorkSpace/config/admin.php
+
+# Private working notes are not project documentation for public distribution.
+/prompt_de_continuidade.txt
+/ROTEIRO-CONTINUIDADE-ORIGINAL.txt
+
+# Godot-generated editor/import data.
+.godot/
+
+# Release artifacts are attached to GitHub Releases, not committed to the Git tree.
+Godot-Rev-Zystem-v*-Windows-x64*.exe
+Godot-Rev-Zystem-v*-Fontes.zip
