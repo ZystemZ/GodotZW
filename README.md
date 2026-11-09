@@ -8,10 +8,10 @@
 
 Os binários e o pacote completo de fontes são disponibilizados como assets da release, não como arquivos grandes no histórico Git:
 
-- [Baixar a versão mais recente](https://github.com/ZystemZ/GodotZW/releases/latest)
+- [Ver releases e downloads](https://github.com/ZystemZ/GodotZW/releases)
 - [Release v0.13](https://github.com/ZystemZ/GodotZW/releases/tag/v0.13)
 
-Assets previstos na release:
+Assets publicados na release:
 
 - `Godot-Rev-Zystem-v0.13-Windows-x64.exe` — editor GUI Windows x64.
 - `Godot-Rev-Zystem-v0.13-Windows-x64.console.exe` — variante de console para diagnóstico.
